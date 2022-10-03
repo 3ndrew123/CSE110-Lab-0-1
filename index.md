@@ -6,7 +6,7 @@ This is my first time using `git commit` for a markdown page
 If you click [this](https://www.youtube.com/watch?v=GJDNkVDGM_s&ab_channel=HighValley) video, you are super cool
 
 
-[This](##Here-is-a-Meme) will lead you to a Meme (Section Headings are cool)!
+[This](#here-is-a-meme) will lead you to a Meme (Section Headings are cool)!
 ## Here is a Random Heading
 > There is nothing important here
 
