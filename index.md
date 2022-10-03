@@ -8,14 +8,17 @@ If you click [this](https://www.youtube.com/watch?v=GJDNkVDGM_s&ab_channel=HighV
 ## Here is a Random Heading
 > There is nothing important here
 ## Here is a Meme
-![This is my meme](https://ibb.co/WgpJjzP)
+![This is my meme](https://i.ibb.co/XSkRM53/unknown.png)
+
 ## Here are some games I am interested in 
 - Legend of Zelda: Tears of the Kingdom
 - osu!
 - Valorant
+  
 ## Here are the top k-pop groups I listen to
 1. Twice
 2. StayC
+   
 ## I still need to do some chores for the week
 - [ ] Clean my room
 - [x] Wash the dishes
