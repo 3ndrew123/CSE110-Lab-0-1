@@ -3,8 +3,8 @@
 Being cool means you are chill like that
 This is my first time using `git commit` for a markdown page
 ## This is the section for links
-If you click [this](https://www.youtube.com/watch?v=GJDNkVDGM_s&ab_channel=HighValley) video, you are super cool
-[This](## Here is a Meme) will lead you to a Meme
+If you click [this](https://www.youtube.com/watch?v=GJDNkVDGM_s&ab_channel=HighValley) video, you are super cool \n
+[This](##Here-is-a-Meme) will lead you to a Meme (Section Headings are cool)!
 ## Here is a Random Heading
 > There is nothing important here
 ## Here is a Meme
